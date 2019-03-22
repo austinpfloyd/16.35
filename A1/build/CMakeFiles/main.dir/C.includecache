@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/client.h
+vehicle.h
+../include/vehicle.h
+
+../include/controller.h
+vehicle.h
+../include/vehicle.h
+
+../include/simulator.h
+controller.h
+../include/controller.h
+vehicle.h
+../include/vehicle.h
+
+../include/vehicle.h
+
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/src/vehicle.c
+simulator.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/src/simulator.h
+vehicle.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/src/vehicle.h
+stdlib.h
+-
+client.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/src/client.h
+math.h
+-
+unistd.h
+-
+stdio.h
+-
+

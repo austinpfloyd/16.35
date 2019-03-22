@@ -1,0 +1,5 @@
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/build/CMakeFiles/rebuild_cache.dir
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/build/CMakeFiles/edit_cache.dir
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/build/CMakeFiles/test.dir
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/build/CMakeFiles/test_controller.dir
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A1/build/CMakeFiles/main.dir
