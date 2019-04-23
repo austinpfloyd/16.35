@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/controller.h
+vehicle.h
+../include/vehicle.h
+
+../include/simulator.h
+controller.h
+../include/controller.h
+vehicle.h
+../include/vehicle.h
+pthread.h
+-
+
+../include/vehicle.h
+
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/controller.c
+controller.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/controller.h
+vehicle.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/vehicle.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/vehicle.c
+controller.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/controller.h
+vehicle.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/vehicle.h
+simulator.h
+/Users/Austin/Documents/MIT/2019.2 Spring/16.35/A2/src/simulator.h
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+math.h
+-
+
